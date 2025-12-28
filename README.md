@@ -1,2 +1,13 @@
 # gist-o-tron
-Text Summarizing App
+
+My portfolio
+
+## Built with
+
+- React
+- Tailwind CSS
+- Puter.js
+
+## Author
+
+Alan Webb
