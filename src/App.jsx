@@ -22,7 +22,9 @@ const App = () => {
 	}, []);
 
 	const summarizeText = async () => {
-		
+		setLoading(true);
+		setSummary("");
+		setError("");
 	}
 
 	return (
