@@ -1,6 +1,6 @@
 # gist-o-tron
 
-My portfolio
+Text Summarizer
 
 ## Built with
 
